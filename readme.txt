@@ -3,3 +3,4 @@
 3.use and exucute the install.sh
 when finnsh reboot
 
+git clone   https://github.com/esmo1200/dotfiles.git

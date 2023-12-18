@@ -1,0 +1,106 @@
+yay -Sy base base-devel dash linux-firmware kernel-modules-hook logrotate man-pages btrfs-progs htop vi cpio terminus-font posix autoconf automake bison fakeroot flex gcc gettext groff gzip libtool make pacman pkgconf sudo texinfo which pacman-contrib pgstats snapper snap-pac progress gocryptfs ntfs-3g sshfs udiskie udiskie-dmenu-git xplr vimiv-qt vimiv-qt dua-cli webwormhole-git bat exa fd ripgrep tree trash-cli imagemagick jq dfrs zathura-pdf-mupdf pdftk inotiff-tools xournalpp bfs lftp nextcloud-client lbzip2 pigz pixz p7zip unrarunzip zip iwd nftables iptables-nft bandwhich net-tools nmap nzbget nzbget-systemd openbsd-netcat bind dog mtr sipcalc wget rsync openssh curli  speedtest-cli wireguard-tools systemd-resolvconf proxychains-ng socat freerdp ccid pam-u2f usbguard pinentry checksec polkit-gnome earlyoom systembus-notify tlp upower acpi bolt pipewire-pulse pulseaudio-alsa pulseaudio-bluetooth pamixer pavucontrol playerctl bluez bluez-utils helvum hyprland hyprland-autoname-workspaces-git swaybg swaylock swayidle xorg-server-xwayland wl-clipboard python-i3ipc gtk-theme-arc-gruvbox-git waybar light slurg qt5-wayland qt6-wayland wldash swaync ttf-dejavu ttf-courier-prime ttf-heuristica ttf-liberation ttf-literata noto-fonts cantarell-fonts ttf-droid' ttf-lato ttf-opensans ttf-signika otf-font-awesome
+ttf-joypixels aurpublish aurutils repoctl rebuild-detector git git-delta meld tig github-cli kakoune kak-ls prettier dos2unix editorconfig-core-cdocker docker-buildx docker-compose direnv terraform terraform-ls teehee strace fzf
+bash-language-server shfmt bash-completion python-lsp-server python-black python-pip python-pylint go gopls npm yarn typescript-language-server rust rust-analyzer clang meson postgresql-libs pgformatter pgcli dbmate mariadb-clients
+aspell-da aspell-en aspell-uk aspell-ru android-tools android-udev kitty zsh lscolors-git pass pwgen msitools browserpass-chromium browserpass-firefox gnome-keyring libgnome-keyring isync msmtp neomutt urlscan goimapnotify mutt-ics w3m
+qutebrowser python-adblock chromium-widevine python-tldextract chromium firefox grim swappy wf-recorder
+xdg-desktop-portal-wlr  wireplumber
+mpv mpv-mpris ffmpeg
+ yt-dlaria2
+ ff2mpv-go-git
+kubectl kubectx
+calibre krita inkscape qalculate-gtk libreoffice-fresh transmission-gtk
+mkcert
+qrencode
+freerdp
+linux
+linux-headers mkinitcpio-encrypt-detached-header
+devtools reflector
+arch-secure-boot
+mokutil
+intel-ucode
+libvirt
+virt-manager
+ qemu
+ dnsmasq
+ ebtables
+ edk2-ovmf
+intel-media-driver
+vulkan-intel
+vulkan-headers
+wluma fwupd dmidecode
+shellcheck
+wlsunset
+linux-asahi linux-asahi-edge
+linux-asahi-headers devtools-alarm
+archlinuxarm-keyring asahi-meta
+mesa-asahi-edge
+signal-desktop-arm
+
+        
+        
+        
+       
+      
+        
+        
+        
+
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+      
+        
+         
+
+
+
+
+        
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+       
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+       
+    
